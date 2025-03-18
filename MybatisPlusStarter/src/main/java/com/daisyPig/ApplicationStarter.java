@@ -6,8 +6,8 @@ import org.mybatis.spring.annotation.MapperScan;
 
 @SpringBootApplication
 @MapperScan("com.daisyPig.mapper")
-public class MybatisPlusStarterApplication {
+public class ApplicationStarter {
     public static void main(String[] args) {
-        SpringApplication.run(MybatisPlusStarterApplication.class, args);
+        SpringApplication.run(ApplicationStarter.class, args);
     }
 }

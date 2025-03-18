@@ -1,2 +1,2 @@
 # MybatisPlusStarter
-简单mybatisPlus的增删改查分页起手项目
+简单mybatisPlus的增删改查分页起手项目，v1只有接口，v2有前端展示
